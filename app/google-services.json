@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "912173468033",
+    "firebase_url": "https://cloudtasks-1e2cd.firebaseio.com",
+    "project_id": "cloudtasks-1e2cd",
+    "storage_bucket": "cloudtasks-1e2cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912173468033:android:8ad3268706185315",
+        "android_client_info": {
+          "package_name": "ru.kazakova_net.cloudtasks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912173468033-11afk1mvv40d1pmuvvovs9bnp6e4t6da.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.kazakova_net.cloudtasks",
+            "certificate_hash": "8d26f0dd7a5f432ca23f44f3ea57e4d5acb6e29c"
+          }
+        },
+        {
+          "client_id": "912173468033-kkf61a2sgiu942h93tug2q0lk41v1st6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhJ6WzXzHiG-zKk5uiQJxD5tMw89nWHxQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912173468033-kkf61a2sgiu942h93tug2q0lk41v1st6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
